@@ -1,5 +1,6 @@
 {
     "name": "tote/kafka-queue",
+    "version": "1.0.1",
     "require": {
         "laravel/framework": "^9.7"
     },
