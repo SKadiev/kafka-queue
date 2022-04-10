@@ -1,0 +1,17 @@
+{
+    "name": "tote/kafka-queue",
+    "require": {
+        "laravel/framework": "^9.7"
+    },
+    "autoload": {
+        "psr-4": {
+            "Tote\\KafkaQueue\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Stojan Kadiev",
+            "email": "kadievstojan@gmail.com"
+        }
+    ]
+}
